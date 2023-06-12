@@ -1,0 +1,17 @@
+{
+  "name": "arrowheads",
+  "version": "1.0.0",
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "leaflet-arrowheads": "^1.4.0",
+    "leaflet-geometryutil": "^0.10.2"
+  },
+  "description": "What is CodeIgniter ###################",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
